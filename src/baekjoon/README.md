@@ -6,4 +6,4 @@
 
 클래스 명은 Main(문제번호)로 작성하여 구분한다.
 
-해당 문제에 대한 url은 https://www.acmicpc.net/problem/{문제번호} 로 이동할 수 있다.
+해당 풀이에 대한 문제는 https://www.acmicpc.net/problem/문제번호 로 이동하여 확인할 수 있다.
